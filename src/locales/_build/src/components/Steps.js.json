@@ -1,0 +1,114 @@
+{
+  "Identification": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        27
+      ],
+      [
+        "src/components/Steps.js",
+        31
+      ],
+      [
+        "src/components/Steps.js",
+        98
+      ]
+    ]
+  },
+  "Level of compliance": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        38
+      ],
+      [
+        "src/components/Steps.js",
+        42
+      ],
+      [
+        "src/components/Steps.js",
+        99
+      ]
+    ]
+  },
+  "Non-accessible content": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        49
+      ],
+      [
+        "src/components/Steps.js",
+        53
+      ],
+      [
+        "src/components/Steps.js",
+        100
+      ]
+    ]
+  },
+  "Exemptions": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        60
+      ],
+      [
+        "src/components/Steps.js",
+        64
+      ],
+      [
+        "src/components/Steps.js",
+        101
+      ]
+    ]
+  },
+  "Contact information": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        71
+      ],
+      [
+        "src/components/Steps.js",
+        75
+      ],
+      [
+        "src/components/Steps.js",
+        102
+      ]
+    ]
+  },
+  "In conclusion": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        82
+      ],
+      [
+        "src/components/Steps.js",
+        86
+      ],
+      [
+        "src/components/Steps.js",
+        103
+      ]
+    ]
+  },
+  "Menu": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        95
+      ]
+    ]
+  },
+  "Ok": {
+    "origin": [
+      [
+        "src/components/Steps.js",
+        106
+      ]
+    ]
+  }
+}

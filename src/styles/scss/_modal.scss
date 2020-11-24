@@ -1,0 +1,36 @@
+.react-responsive-modal-modal {
+  min-width: 18.75rem !important;
+
+  @media (min-width: 768px) {
+    min-width: 31.25rem !important;
+  }
+
+  padding: 1.875rem !important;
+  padding-bottom: 0 !important;
+
+  h2 {
+    margin-top: 0;
+    line-height: 1;
+  }
+}
+
+.react-responsive-modal-closeButton {
+  top: 1.875rem !important;
+  right: 1.875rem !important;
+  min-width: auto !important;
+  height: auto !important;
+  line-height: auto !important;
+  background: $primary !important;
+  padding: 0.3125rem !important;
+
+  &:hover,
+  &:focus {
+    background: $primary-light !important;
+  }
+}
+
+.react-responsive-modal-overlay {
+  @media (max-width: 320px) {
+    padding: 0 !important;
+  }
+}

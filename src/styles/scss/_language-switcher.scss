@@ -1,0 +1,43 @@
+.language-switcher {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      display: inline-block;
+      margin: 0 0.1875rem 0 0;
+      padding: 0;
+
+      button {
+        min-width: auto;
+        background: transparent;
+        color: $font-color;
+        font-size: 75%;
+        text-transform: uppercase;
+        padding: 0.1875rem 0.3125rem;
+        height: auto;
+        line-height: 1;
+
+        &:hover,
+        &:focus {
+          background: $primary;
+          color: #fff;
+        }
+      }
+
+      &.is-active {
+        button {
+          background: $font-color;
+          color: #fff;
+
+          &:hover,
+          &:focus {
+            background: $primary;
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+}

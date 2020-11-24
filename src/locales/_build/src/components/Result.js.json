@@ -1,0 +1,58 @@
+{
+  "Success!": {
+    "origin": [
+      [
+        "src/components/Result.js",
+        36
+      ]
+    ]
+  },
+  "Your accessibility statement has been generated. You can copy the HTML via the button below. Remember that a link to your accessibility declaration must be present in the footer of your site.": {
+    "origin": [
+      [
+        "src/components/Result.js",
+        39
+      ]
+    ]
+  },
+  "This accessibility declaration must be re-read and completed if necessary by your organization. It is indeed your responsibility.": {
+    "origin": [
+      [
+        "src/components/Result.js",
+        46
+      ]
+    ]
+  },
+  "It must be updated every time your site is modified in a major way and, as far as possible, updated every year.": {
+    "origin": [
+      [
+        "src/components/Result.js",
+        52
+      ]
+    ]
+  },
+  "Previous": {
+    "origin": [
+      [
+        "src/components/Result.js",
+        61
+      ]
+    ]
+  },
+  "Copy the HTML to the clipboard": {
+    "origin": [
+      [
+        "src/components/Result.js",
+        69
+      ]
+    ]
+  },
+  "Your declaration": {
+    "origin": [
+      [
+        "src/components/Result.js",
+        83
+      ]
+    ]
+  }
+}

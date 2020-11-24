@@ -1,0 +1,218 @@
+{
+  "Identification": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        114
+      ]
+    ]
+  },
+  "Required fields are marked with an asterisk (<abbr class=\"red\" title=\"Required fields\">*</abbr>).": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        120
+      ]
+    ]
+  },
+  "Name of your organization": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        127
+      ]
+    ]
+  },
+  "This field is required": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        141
+      ],
+      [
+        "src/components/Step1.js",
+        199
+      ],
+      [
+        "src/components/Step1.js",
+        236
+      ],
+      [
+        "src/components/Step1.js",
+        328
+      ],
+      [
+        "src/components/Step1.js",
+        368
+      ]
+    ]
+  },
+  "Site/Application": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        149
+      ]
+    ]
+  },
+  "Type": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        157
+      ]
+    ]
+  },
+  "Site": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        174
+      ]
+    ]
+  },
+  "Mobile application": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        191
+      ]
+    ]
+  },
+  "URL": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        208
+      ]
+    ]
+  },
+  "The URL is invalid": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        244
+      ]
+    ]
+  },
+  "Remove": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        252
+      ]
+    ]
+  },
+  "Add a site or application": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        263
+      ]
+    ]
+  },
+  "Name of your guardianship authority": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        270
+      ]
+    ]
+  },
+  "Federal State": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        282
+      ]
+    ]
+  },
+  "Flemish Region": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        283
+      ]
+    ]
+  },
+  "Walloon Region": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        284
+      ]
+    ]
+  },
+  "Brussels-Capital Region": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        286
+      ]
+    ]
+  },
+  "Wallonia-Brussels Federation": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        289
+      ]
+    ]
+  },
+  "French Community Commission": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        292
+      ]
+    ]
+  },
+  "German-speaking Community": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        295
+      ]
+    ]
+  },
+  "Date of the creation of your statement": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        303
+      ]
+    ]
+  },
+  "Date of the last update of your statement": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        337
+      ]
+    ]
+  },
+  "If this is your first statement, note the same date as above.": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        340
+      ]
+    ]
+  },
+  "Previous": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        376
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/components/Step1.js",
+        384
+      ]
+    ]
+  }
+}

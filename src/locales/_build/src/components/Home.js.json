@@ -1,0 +1,66 @@
+{
+  "Welcome to your assistant! In a few clicks, you can now create the accessibility statement of your site or mobile application.": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        117
+      ]
+    ]
+  },
+  "Create your accessibility statement": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        125
+      ]
+    ]
+  },
+  "Create your statement": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        128
+      ]
+    ]
+  },
+  "Upload an accessibility statement": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        141
+      ]
+    ]
+  },
+  "Attention, some sites are not subject to the accessibility legislation. In this case, you do not need to fill out this declaration.": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        155
+      ]
+    ]
+  },
+  "Click here to check if this is your case.": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        166
+      ]
+    ]
+  },
+  "Information": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        179
+      ]
+    ]
+  },
+  "<p> The Directive does not apply to the following sites and mobile applications: </p> <ul class=\"lower-alpha\"> <li> sites and mobile applications of public service broadcasters and their subsidiaries and of other bodies or their subsidiaries carrying out a public service broadcasting remit; </li> <li> sites and mobile applications of NGOs that do not provide essential services to the public, or services that specifically address the needs of or for persons with disabilities. </li> </ul> <p> If this is your case, you are not subject to the European directive and therefore not required to complete an accessibility declaration. </p>": {
+    "origin": [
+      [
+        "src/components/Home.js",
+        184
+      ]
+    ]
+  }
+}

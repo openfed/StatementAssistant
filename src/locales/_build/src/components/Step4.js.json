@@ -1,0 +1,94 @@
+{
+  "Exemptions": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        89
+      ]
+    ]
+  },
+  "Required fields are marked with an asterisk (<abbr class=\"red\" title=\"Required fields\">*</abbr>).": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        95
+      ]
+    ]
+  },
+  "Do you benefit from exemptions for some content on your site?": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        103
+      ]
+    ]
+  },
+  "<p> Definition of <strong>exemption</strong>: Certain site content may benefit from an exemption from the directive. For these, you can then consider that they are compliant because they are \"non-correctable\". It is however necessary to list them and justify their exemption. </p>": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        110
+      ]
+    ]
+  },
+  "Yes": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        139
+      ]
+    ]
+  },
+  "No": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        153
+      ]
+    ]
+  },
+  "This field is required": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        160
+      ],
+      [
+        "src/components/Step4.js",
+        268
+      ]
+    ]
+  },
+  "List the different contents of your site that benefit from an exemption and specify the reasons for it": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        169
+      ]
+    ]
+  },
+  "<p> <strong>Possible reasons for exemptions :</strong> </p> <p> The Directive does not apply to the content of the following sites and mobile applications: </p> <ul class=\"lower-alpha\"> <li> Office automation file formats published before September 23, 2018, except where such content is required for the purposes of active business processes relating to tasks performed by the public sector body concerned; </li> <li> Pre-recorded time media published before September 23, 2020; </li> <li>Live temporal media ;</li> <li> Maps and online mapping services, as long as the essential information is provided in a digitally accessible form for navigational charts; </li> <li> Third party content that is not funded or developed by, and is not under the control of, the public sector body concerned; </li> <li> Reproductions of pieces from heritage collections that cannot be made fully accessible due to: <ul class=\"lower-roman\"> <li> the incompatibility of accessibility requirements with the preservation of the item concerned or the authenticity of the reproduction (e.g. in terms of contrast); </li> <li> the unavailability of automated and cost-effective solutions that would allow the text of manuscripts or other heritage collections to be easily transcribed and rendered as content compatible with accessibility requirements; </li> </ul> </li> <li> The content of extranets and intranets, i.e. sites that are accessible only to a restricted group of people and not to the general public, published before September 23, 2019 until such time as these sites are substantially revised; </li> <li> content of sites and mobile applications that are considered to be archives, i.e. they only present content that is not required for the purposes of active business processes, nor updated or modified after September 23, 2019. </li> </ul>": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        177
+      ]
+    ]
+  },
+  "Previous": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        286
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/components/Step4.js",
+        294
+      ]
+    ]
+  }
+}

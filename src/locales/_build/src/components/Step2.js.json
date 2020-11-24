@@ -1,0 +1,206 @@
+{
+  "Level of compliance": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        109
+      ]
+    ]
+  },
+  "Required fields are marked with an asterisk (<abbr class=\"red\" title=\"Required fields\">*</abbr>).": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        115
+      ]
+    ]
+  },
+  "How did you analyze the accessibility of your site?": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        122
+      ]
+    ]
+  },
+  "Internal audit": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        138
+      ]
+    ]
+  },
+  "External audit": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        153
+      ]
+    ]
+  },
+  "This field is required": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        158
+      ],
+      [
+        "src/components/Step2.js",
+        207
+      ],
+      [
+        "src/components/Step2.js",
+        230
+      ],
+      [
+        "src/components/Step2.js",
+        297
+      ],
+      [
+        "src/components/Step2.js",
+        391
+      ],
+      [
+        "src/components/Step2.js",
+        423
+      ]
+    ]
+  },
+  "Was it a simplified or an in-depth audit?": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        167
+      ]
+    ]
+  },
+  "Note that full compliance can only be verified through an audit in-depth": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        170
+      ]
+    ]
+  },
+  "Simplified": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        188
+      ]
+    ]
+  },
+  "In-depth": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        202
+      ]
+    ]
+  },
+  "Link to your audit report": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        212
+      ]
+    ]
+  },
+  "The URL is invalid": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        235
+      ]
+    ]
+  },
+  "At what level of compliance with legislation your site has been evaluated?": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        243
+      ]
+    ]
+  },
+  "Not in compliance": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        260
+      ]
+    ]
+  },
+  "In partial compliance": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        275
+      ]
+    ]
+  },
+  "Full compliance": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        290
+      ]
+    ]
+  },
+  "Does some of the non-accessible contents of your site justified by an excessive workload or financial burden?": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        307
+      ]
+    ]
+  },
+  "<p> When the compliance of a site's content represents too great a cost, too great a workload in view of the benefits it could bring, we talk about a <strong>disproportionate burden</strong>. This disproportionate burden cannot be mentioned lightly. Indeed, Member States shall ensure that the public sector body concerned takes into account relevant circumstances, including the following: </p> <ul class=\"lower-alpha\"> <li> The size, resources and nature of the public sector body concerned; </li> <li> The estimated costs and benefits to the public sector body concerned in relation to the estimated benefit to people with disabilities, taking into account the frequency and duration of use of the specific site or mobile application. </li> </ul> <p> This information should therefore be assessed and provided in their declaration. </p>": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        315
+      ]
+    ]
+  },
+  "Yes": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        368
+      ]
+    ]
+  },
+  "No": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        385
+      ]
+    ]
+  },
+  "How do you explain the disproportionate burden of complying with this content?": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        399
+      ]
+    ]
+  },
+  "Previous": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        434
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/components/Step2.js",
+        442
+      ]
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Wizard for filling the accessibility statement": {
+    "origin": [
+      [
+        "src/components/Header.js",
+        10
+      ]
+    ]
+  }
+}

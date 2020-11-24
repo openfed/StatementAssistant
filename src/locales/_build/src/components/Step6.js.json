@@ -1,0 +1,66 @@
+{
+  "In conclusion": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        57
+      ]
+    ]
+  },
+  "Required fields are marked with an asterisk (<abbr class=\"red\" title=\"Required fields\">*</abbr>).": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        63
+      ]
+    ]
+  },
+  "What changes do you plan to make to improve the level of accessibility of your site?": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        71
+      ]
+    ]
+  },
+  "<p> If you are planning to update your site or some of its contents in the coming months, this will be an opportunity to improve the accessibility of your site. It is interesting to be able to communicate this to the citizens who visit your site and thus show them your willingness to make your information accessible to all. </p>": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        79
+      ]
+    ]
+  },
+  "This field is required": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        113
+      ]
+    ]
+  },
+  "Would you like to add something about the accessibility of your site that has not been addressed previously?": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        120
+      ]
+    ]
+  },
+  "Previous": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        148
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/components/Step6.js",
+        156
+      ]
+    ]
+  }
+}

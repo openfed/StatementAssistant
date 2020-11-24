@@ -1,0 +1,242 @@
+{
+  "Accessibility Statement": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        57
+      ]
+    ]
+  },
+  "{apps, select, oneApp {{0}, undertakes to make this mobile application accessible, in accordance with the following legislation:} MultipleApps {{1}, undertakes to make these mobile applications accessible, in accordance with the following legislation:} oneSite {{2}, undertakes to make this site accessible, in accordance with the following legislation:} MultipleSites {{3}, undertakes to make these sites accessible, in accordance with the following legislation:} OneAppOneSite {{4}, undertakes to make this site and mobile application accessible, in accordance with the following legislation:} OneAppMultipleSites {{5}, undertakes to make these sites and mobile application accessible, in accordance with the following legislation:} MultipleAppsOneSite {{6}, undertakes to make this site and mobile applications accessible, in accordance with the following legislation:} MultipleAppsMultipleSites {{7}, undertakes to make these sites and mobile applications accessible, in accordance with the following legislation:} other {Error}}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        60
+      ]
+    ]
+  },
+  "Law of July 19th 2018 regarding the accessibility of websites and mobile applications for government organisations": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        73
+      ]
+    ]
+  },
+  "Governing decree from December 7th 2018 (Flanders)": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        76
+      ]
+    ]
+  },
+  "Decree of May 2nd 2019 regarding the accessibility of websites and mobile applications for government bodies (Walloon region)": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        79
+      ]
+    ]
+  },
+  "Ordinance regarding the accessibility of websites and  mobile applications for regional government bodies and the municipalities (Brussels Capital Region)": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        82
+      ]
+    ]
+  },
+  "Decree of May 3rd 2019 regarding the accessibility of websites and mobile applications for government organisations (Wallonia-Brussels Federation)": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        85
+      ]
+    ]
+  },
+  "Decree of May 9th 2019 regarding the accessibility of websites and mobile applications for government organisations of the French Community Commission": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        88
+      ]
+    ]
+  },
+  "Decree regarding the non-public and public electronic communication for governing bodies in the German speaking territory": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        91
+      ]
+    ]
+  },
+  "This accessibility statement applies to:": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        95
+      ]
+    ]
+  },
+  "Site": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        103
+      ]
+    ]
+  },
+  "Mobile application": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        105
+      ]
+    ]
+  },
+  "Level of compliance": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        114
+      ]
+    ]
+  },
+  "{apps, select, oneApp {This mobile application is fully compliant as described below.} MultipleApps {These mobile applications are fully compliant as described below.} oneSite {This site is fully compliant as described below.} MultipleSites {These sites are fully compliant as described below.} OneAppOneSite {This site and mobile application are fully compliant as described below.} OneAppMultipleSites {These sites and mobile application are fully compliant as described below.} MultipleAppsOneSite {This site and mobile applications are fully compliant as described below.} MultipleAppsMultipleSites {These sites and mobile applications are fully compliant as described below.} other {Error}}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        118
+      ]
+    ]
+  },
+  "{apps, select, oneApp {This mobile application is in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleApps {These mobile applications are in partial compliance as described below, due to the non-conformities and exemptions listed below.} oneSite {This site is in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleSites {These sites are in partial compliance as described below, due to the non-conformities and exemptions listed below.} OneAppOneSite {This site and mobile application are in partial compliance as described below, due to the non-conformities and exemptions listed below.} OneAppMultipleSites {These sites and mobile application are in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleAppsOneSite {This site and mobile applications are in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleAppsMultipleSites {These sites and mobile applications are in partial compliance as described below, due to the non-conformities and exemptions listed below.} other {Error}}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        133
+      ]
+    ]
+  },
+  "{apps, select, oneApp {This mobile application is not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleApps {These mobile applications are not in compliance as described below. Non-compliances and exemptions are listed below.} oneSite {This site is not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleSites {These sites are not in compliance as described below. Non-compliances and exemptions are listed below.} OneAppOneSite {This site and mobile application are not in compliance as described below. Non-compliances and exemptions are listed below.} OneAppMultipleSites {These sites and mobile application are not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleAppsOneSite {This site and mobile applications are not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleAppsMultipleSites {These sites and mobile applications are not in compliance as described below. Non-compliances and exemptions are listed below.} other {Error}}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        148
+      ]
+    ]
+  },
+  "Preparing your statement": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        166
+      ]
+    ]
+  },
+  "{0, select, internal {An internal audit of the accessiblity has been made.} external {An external audit of the accessiblity has been made.} other {Error}}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        168
+      ]
+    ]
+  },
+  "{0, select, inDepth {This audit was an in depth analysis.} simplified {This audit was a simplified analysis.} other {Error}}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        174
+      ]
+    ]
+  },
+  "You can review the report here:": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        181
+      ]
+    ]
+  },
+  "Disproportionate burden": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        190
+      ]
+    ]
+  },
+  "Non-accessible content": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        203
+      ]
+    ]
+  },
+  "Suggested alternatives": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        212
+      ]
+    ]
+  },
+  "Exemptions": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        226
+      ]
+    ]
+  },
+  "Contact information": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        239
+      ]
+    ]
+  },
+  "If you have any questions or thoughts about the accessibility of our website/application, please contact us:": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        242
+      ]
+    ]
+  },
+  "If the above service does not respond, you should contact the following organisation:": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        258
+      ]
+    ]
+  },
+  "Improvement plan": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        274
+      ]
+    ]
+  },
+  "This statement was prepared on {date}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        293
+      ]
+    ]
+  },
+  "The last review of the declaration was made on {date}": {
+    "origin": [
+      [
+        "src/components/Statement.js",
+        308
+      ]
+    ]
+  }
+}

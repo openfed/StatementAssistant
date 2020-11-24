@@ -1,0 +1,78 @@
+{
+  "Contact information": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        62
+      ]
+    ]
+  },
+  "Required fields are marked with an asterisk (<abbr class=\"red\" title=\"Required fields\">*</abbr>).": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        68
+      ]
+    ]
+  },
+  "How to contact the service in charge of the accessibility of your site?": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        76
+      ]
+    ]
+  },
+  "<p> Visitors to your site may have questions or comments about the accessibility of your site. To give them a voice, you can allow them to contact you in different ways: an e-mail address, a contact form, a postal address or a telephone number of the service in charge. </p> <p> Remember to update this contact when your service changes or when a contact link is no longer active on your site. If there is no response, they will be able to go to your control organisation. </p>": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        84
+      ]
+    ]
+  },
+  "This field is required": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        122
+      ],
+      [
+        "src/components/Step5.js",
+        167
+      ]
+    ]
+  },
+  "In case of non-compliance, which organization to contact if this service does not respond?": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        130
+      ]
+    ]
+  },
+  "<p> To find out the name of your guardianship authority, please contact your regulatory authority. For example, for the Federal State, it is the Federal Ombudsman. </p>": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        138
+      ]
+    ]
+  },
+  "Previous": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        176
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/components/Step5.js",
+        184
+      ]
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-28 14:15+0200\n"
+"PO-Revision-Date: 2020-11-24 14:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: fr_BE\n"
+"Mime-Version: 1.0\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Loco-Parser: loco_parse_po\"\n"
+
+#: src/components/Step4.js:177
+msgid "<p> <strong>Possible reasons for exemptions :</strong> </p> <p> The Directive does not apply to the content of the following sites and mobile applications: </p> <ul class=\"lower-alpha\"> <li> Office automation file formats published before September 23, 2018, except where such content is required for the purposes of active business processes relating to tasks performed by the public sector body concerned; </li> <li> Pre-recorded time media published before September 23, 2020; </li> <li>Live temporal media ;</li> <li> Maps and online mapping services, as long as the essential information is provided in a digitally accessible form for navigational charts; </li> <li> Third party content that is not funded or developed by, and is not under the control of, the public sector body concerned; </li> <li> Reproductions of pieces from heritage collections that cannot be made fully accessible due to: <ul class=\"lower-roman\"> <li> the incompatibility of accessibility requirements with the preservation of the item concerned or the authenticity of the reproduction (e.g. in terms of contrast); </li> <li> the unavailability of automated and cost-effective solutions that would allow the text of manuscripts or other heritage collections to be easily transcribed and rendered as content compatible with accessibility requirements; </li> </ul> </li> <li> The content of extranets and intranets, i.e. sites that are accessible only to a restricted group of people and not to the general public, published before September 23, 2019 until such time as these sites are substantially revised; </li> <li> content of sites and mobile applications that are considered to be archives, i.e. they only present content that is not required for the purposes of active business processes, nor updated or modified after September 23, 2019. </li> </ul>"
+msgstr "<p><strong>Mögliche Gründe für Ausnahmen:</strong></p><p> Die Richtlinie gilt nicht für den Inhalt der folgenden Websites und mobilen Anwendungen : </p><ul class=\"lower-alpha\"> <li> Office-Dateiformate, die vor dem 23. September 2018 veröffentlicht wurden, es sei denn, diese Inhalte sind für die Zwecke aktiver Verwaltungsprozesse im Zusammenhang mit den von der betreffenden öffentlichen Stelle durchgeführten Aufgaben erforderlich; </li> <li> Voraufgezeichnete Zeitmedien, die vor dem 23. September 2020 veröffentlicht wurden ;</li> <li> Live time media ; </li> <li> Karten und Online-Kartierungsdienste, vorausgesetzt, dass wesentliche Informationen in einer zugänglichen digitalen Form in Bezug auf Karten, die für die Navigation bestimmt sind, bereitgestellt werden; </li> <li> Inhalte Dritter, die weder von der betreffenden öffentlichen Stelle finanziert oder entwickelt werden noch unter der Kontrolle der betreffenden öffentlichen Stelle stehen; </li> <li> Reproduktionen von Gegenständen aus Erbesammlungen, die aufgrund von : <ul class=\"lower-roman\"> <li> die Unvereinbarkeit der Anforderungen an die Zugänglichkeit mit der Erhaltung des betreffenden Objekts oder der Authentizität der Reproduktion (z.B. in Bezug auf den Kontrast); oder </li> <li> die Nichtverfügbarkeit automatisierter und kostengünstiger Lösungen, die es ermöglichen würden, den Text von Manuskripten oder anderen Sammlungsstücken des Kulturerbes leicht zu transkribieren und als mit den Anforderungen an die Zugänglichkeit kompatiblen Inhalt wiederzugeben; </li> </ul> </li> <li>  Der Inhalt von Extranets und Intranets, d.h. Websites, die nur einem begrenzten Personenkreis und nicht der allgemeinen Öffentlichkeit zugänglich sind, die vor dem 23. September 2019 veröffentlicht werden, bis diese Websites grundlegend überarbeitet werden; </li> <li> Inhalte von Websites und mobilen Anwendungen, die als Archive betrachtet werden, d.h. sie präsentieren nur Inhalte, die für aktive Geschäftsprozesse nicht notwendig sind und nach dem 23. September 2019 nicht mehr aktualisiert oder verändert werden. </li></ul>"
+
+#: src/components/Step4.js:110
+msgid "<p> Definition of <strong>exemption</strong>: Certain site content may benefit from an exemption from the directive. For these, you can then consider that they are compliant because they are \"non-correctable\". It is however necessary to list them and justify their exemption. </p>"
+msgstr "<p> Definition von <strong>Freistellung</strong>: Bestimmte Website-Inhalte können in den Genuss einer Freistellung von der Richtlinie kommen. Für diese können Sie sie dann als konform betrachten, weil sie unbeteiligt  sind. Es ist jedoch notwendig, sie aufzulisten und ihre Ausnahme zu begründen.</p>"
+
+#: src/components/Step6.js:79
+msgid "<p> If you are planning to update your site or some of its contents in the coming months, this will be an opportunity to improve the accessibility of your site. It is interesting to be able to communicate this to the citizens who visit your site and thus show them your willingness to make your information accessible to all. </p>"
+msgstr "<p>Wenn Sie planen, Ihre Website oder einige ihrer Inhalte in den kommenden Monaten zu aktualisieren, wird dies eine Gelegenheit sein, die Zugänglichkeit Ihrer Website zu verbessern. Es ist interessant, dies den Bürgern, die Ihre Website besuchen, mitteilen zu können und ihnen so Ihre Bereitschaft zu zeigen, Ihre Informationen für alle zugänglich zu machen.</p>"
+
+#: src/components/Home.js:184
+msgid "<p> The Directive does not apply to the following sites and mobile applications: </p> <ul class=\"lower-alpha\"> <li> sites and mobile applications of public service broadcasters and their subsidiaries and of other bodies or their subsidiaries carrying out a public service broadcasting remit; </li> <li> sites and mobile applications of NGOs that do not provide essential services to the public, or services that specifically address the needs of or for persons with disabilities. </li> </ul> <p> If this is your case, you are not subject to the European directive and therefore not required to complete an accessibility declaration. </p>"
+msgstr "<p> Die Richtlinie gilt nicht für die folgenden Websites und mobilen Anwendungen: </p> <ul class=\"lower-alpha\"> <li> Die Websites und mobilen Anwendungen der öffentlich-rechtlichen Rundfunkanstalten und ihrer Tochtergesellschaften sowie anderer Einrichtungen oder ihrer Tochtergesellschaften mit einem öffentlich-rechtlichen Rundfunkauftrag; </li> <li> Die Websites und mobilen Anwendungen von NGOs, die keine wesentlichen Dienste für die Öffentlichkeit oder Dienste anbieten, die speziell auf die Bedürfnisse von oder für Menschen mit Behinderungen ausgerichtet sind. </li> </ul> <p> In diesem Fall unterliegen Sie nicht der europäischen Richtlinie und sind daher nicht verpflichtet, eine Zugänglichkeitserklärung auszufüllen.</p>"
+
+#: src/components/Step5.js:138
+msgid "<p> To find out the name of your guardianship authority, please contact your regulatory authority. For example, for the Federal State, it is the Federal Ombudsman. </p>"
+msgstr "<p>Um den Namen Ihre  Ombudsmann zu erfahren, wenden Sie sich bitte an Ihre Aufsichtsbehörde. Für den Föderalstaat ist es zum Beispiel der föderale Ombudsmann.</p>"
+
+#: src/components/Step5.js:84
+msgid "<p> Visitors to your site may have questions or comments about the accessibility of your site. To give them a voice, you can allow them to contact you in different ways: an e-mail address, a contact form, a postal address or a telephone number of the service in charge. </p> <p> Remember to update this contact when your service changes or when a contact link is no longer active on your site. If there is no response, they will be able to go to your control organisation. </p>"
+msgstr "<p>Besucher Ihrer Website können Fragen oder Kommentare zur Zugänglichkeit Ihrer Website haben. Um ihnen eine Stimme zu geben, können Sie ihnen erlauben, Sie auf verschiedene Weise zu kontaktieren: über eine E-Mail-Adresse, ein Kontaktformular, eine Postanschrift oder eine Telefonnummer der zuständigen Dienststelle.</p> <p> Vergessen Sie nicht, diesen Kontakt zu aktualisieren, wenn sich Ihr Dienst ändert oder wenn ein Kontaktlink auf Ihrer Website nicht mehr aktiv ist. Wenn es keine Antwort gibt, können sie sich an Ihr Kontrollorgan wenden.</p>"
+
+#: src/components/Step2.js:315
+msgid "<p> When the compliance of a site's content represents too great a cost, too great a workload in view of the benefits it could bring, we talk about a <strong>disproportionate burden</strong>. This disproportionate burden cannot be mentioned lightly. Indeed, Member States shall ensure that the public sector body concerned takes into account relevant circumstances, including the following: </p> <ul class=\"lower-alpha\"> <li> The size, resources and nature of the public sector body concerned; </li> <li> The estimated costs and benefits to the public sector body concerned in relation to the estimated benefit to people with disabilities, taking into account the frequency and duration of use of the specific site or mobile application. </li> </ul> <p> This information should therefore be assessed and provided in their declaration. </p>"
+msgstr "<p>Wenn die Konformität der Inhalte einer Website im Hinblick auf den Nutzen, den sie bringen könnte, zu hohe Kosten, eine zu große Arbeitsbelastung darstellt, sprechen wir von <strong> unverhältnismäßige Belastung</strong>. Diese unverhältnismäßige Belastung darf nicht leichtfertig erwähnt werden. Die Mitgliedstaaten stellen in der Tat sicher, dass die betreffende öffentliche Stelle die relevanten Umstände berücksichtigt, insbesondere die folgenden Umstände:</p> <ul class=\"lower-alpha\"> <li> die Größe, die Ressourcen und die Art der betreffenden öffentlichen Stelle; und</li> <li> die geschätzten Kosten und der geschätzte Nutzen für die betreffende öffentliche Stelle im Verhältnis zum geschätzten Nutzen für Menschen mit Behinderungen, wobei die Häufigkeit und die Dauer der Nutzung der spezifischen Website oder der mobilen Anwendung zu berücksichtigen sind. </li> </ul> <p> Diese Informationen sollten daher bewertet und in ihrer Erklärung angegeben werden.</p>"
+
+#: src/components/Step3.js:136
+msgid "<p> While waiting to be able to correct certain non-compliant content or when you mention an exemption or a disproportionate burden, you can propose <strong>alternatives</strong> to improve the access of any citizen to the information located on your site. These alternatives can be very varied: a different link to the same information, an additional helpline for people with disabilities, help for users of assistive technology, etc. </p>"
+msgstr "<p>Während Sie darauf warten, bestimmte nicht konforme Inhalte zu korrigieren, oder wenn Sie eine Ausnahme oder eine unverhältnismäßige Belastung erwähnen, müssen Sie <strong>Alternativen</strong> vorschlagen, um den Zugang eines jeden Bürgers zu den auf Ihrer Website befindlichen Informationen zu verbessern. Diese Alternativen können sehr vielfältig sein: ein anderer Link zu den gleichen Informationen, eine zusätzliche Helpline für Menschen mit Behinderungen, Hilfe für Benutzer von Unterstützungstechnologie usw. </p>"
+
+#: src/components/Step3.js:89
+msgid "<p> You can rely on the accessibility audit of your site in order to resume the resulting list of errors. Be careful, this list will appear as is in your declaration. Therefore, please make it as comprehensible as possible. </p>"
+msgstr "<p>Sie können sich auf die Prüfung der Zugänglichkeit Ihrer Website verlassen, um die resultierende Fehlerliste fortzusetzen. Achtung, diese Liste wird so erscheinen, wie sie in Ihrer Erklärung steht. Bitte machen Sie es so verständlich wie möglich.</p>"
+
+#: src/components/Statement.js:57
+msgid "Accessibility Statement"
+msgstr "Erklärung zur Barrierefreiheit"
+
+#: src/components/Step1.js:263
+msgid "Add a site or application"
+msgstr "Einen Standort oder eine Anwendung hinzufügen"
+
+#: src/components/Step2.js:243
+msgid "At what level of compliance with legislation your site has been evaluated?"
+msgstr "Welcher Grad an Übereinstimmung mit der Gesetzgebung wurde für Ihre Website bewertet?"
+
+#: src/components/Home.js:155
+msgid "Attention, some sites are not subject to the accessibility legislation. In this case, you do not need to fill out this declaration."
+msgstr "Bitte beachten Sie, dass einige Websites nicht der Gesetzgebung zur Barrierefreiheit unterliegen. In diesem Fall brauchen Sie diese Erklärung nicht auszufüllen."
+
+#: src/components/Step1.js:286
+msgid "Brussels-Capital Region"
+msgstr "Region Brüssel-Hauptstadt"
+
+#: src/components/Home.js:166
+msgid "Click here to check if this is your case."
+msgstr "Klicken Sie hier, um zu prüfen, ob dies bei Ihnen der Fall ist."
+
+#: src/components/Statement.js:239
+#: src/components/Step5.js:62
+#: src/components/Steps.js:71
+#: src/components/Steps.js:75
+#: src/components/Steps.js:102
+msgid "Contact information"
+msgstr "Kontaktdaten"
+
+#: src/components/Result.js:69
+msgid "Copy the HTML to the clipboard"
+msgstr "HTML kopieren"
+
+#: src/components/Home.js:125
+msgid "Create your accessibility statement"
+msgstr "Erstellen Sie Ihre Zugänglichkeitserklärung"
+
+#: src/components/Home.js:128
+msgid "Create your statement"
+msgstr "Erstellen Sie Ihre Erklärung"
+
+#: src/components/Step1.js:303
+msgid "Date of the creation of your statement"
+msgstr "Datum der Erstellung Ihrer Erklärung"
+
+#: src/components/Step1.js:337
+msgid "Date of the last update of your statement"
+msgstr "Datum der letzten Aktualisierung Ihrer Rücksendung"
+
+#: src/components/Statement.js:79
+msgid "Decree of May 2nd 2019 regarding the accessibility of websites and mobile applications for government bodies (Walloon region)"
+msgstr "Dekret vom 2. Mai 2019 über den barrierefreien Zugang zu den Websites und mobilen Anwendungen öffentlicher Stellen (Wallonische Region)"
+
+#: src/components/Statement.js:85
+msgid "Decree of May 3rd 2019 regarding the accessibility of websites and mobile applications for government organisations (Wallonia-Brussels Federation)"
+msgstr "Dekret vom 3. Mai 2019 über die barrierefreien Zugang zu den Websites und mobilen Anwendungen öffentlicher Einrichtungen (Föderation Wallonie-Brüssel)"
+
+#: src/components/Statement.js:88
+msgid "Decree of May 9th 2019 regarding the accessibility of websites and mobile applications for government organisations of the French Community Commission"
+msgstr "Dekret vom 9. Mai 2019 über die  barrierefreien Zugang zu den Websites und mobilen Anwendungen der öffentlichen Einrichtungen der Französischen Gemeinschaftskommission"
+
+#: src/components/Statement.js:91
+msgid "Decree regarding the non-public and public electronic communication for governing bodies in the German speaking territory"
+msgstr "Dekret über die individuelle und öffentliche elektronische Kommunikation der Behörden des deutschen Sprachgebiets"
+
+#: src/components/Statement.js:190
+msgid "Disproportionate burden"
+msgstr "Unverhältnismäßige Belastung"
+
+#: src/components/Step4.js:103
+msgid "Do you benefit from exemptions for some content on your site?"
+msgstr "Profitieren Sie von Ausnahmeregelungen für bestimmte Inhalte auf Ihrer Website?"
+
+#: src/components/Step2.js:307
+msgid "Does some of the non-accessible contents of your site justified by an excessive workload or financial burden?"
+msgstr "Sind einige der nicht zugänglichen Inhalte Ihrer Website durch eine übermäßige Arbeitsbelastung oder finanzielle Belastung gerechtfertigt?"
+
+#: src/components/Statement.js:226
+#: src/components/Step4.js:89
+#: src/components/Steps.js:60
+#: src/components/Steps.js:64
+#: src/components/Steps.js:101
+msgid "Exemptions"
+msgstr "Ausnahmen"
+
+#: src/components/Step2.js:153
+msgid "External audit"
+msgstr "Externe Rechnungsprüfung"
+
+#: src/components/Step1.js:282
+msgid "Federal State"
+msgstr "Bundesstaat"
+
+#: src/components/Step1.js:283
+msgid "Flemish Region"
+msgstr "Flämische Region"
+
+#: src/components/Step1.js:292
+msgid "French Community Commission"
+msgstr "Kommission der Französischen Gemeinschaft"
+
+#: src/components/Step2.js:290
+msgid "Full compliance"
+msgstr "In voller Übereinstimmung"
+
+#: src/components/Step1.js:295
+msgid "German-speaking Community"
+msgstr "Deutschsprachige Gemeinschaft"
+
+#: src/components/Modal.js:38
+msgid "Get help"
+msgstr "Hilfe erhalten"
+
+#: src/components/Statement.js:76
+msgid "Governing decree from December 7th 2018 (Flanders)"
+msgstr "Regierungsdekret vom 7. Dezember 2018 (Flandern)"
+
+#: src/components/Modal.js:47
+msgid "Help"
+msgstr "Hilfe"
+
+#: src/components/Step2.js:122
+msgid "How did you analyze the accessibility of your site?"
+msgstr "Wie haben Sie die Zugänglichkeit Ihrer Website analysiert?"
+
+#: src/components/Step2.js:399
+msgid "How do you explain the disproportionate burden of complying with this content?"
+msgstr "Wie erklären Sie, dass die Einhaltung dieser Inhalte eine unverhältnismäßige Belastung darstellt?"
+
+#: src/components/Step5.js:76
+msgid "How to contact the service in charge of the accessibility of your site?"
+msgstr "Wie können Sie den für die Zugänglichkeit Ihrer Website zuständigen Dienst kontaktieren?"
+
+#: src/components/Step1.js:114
+#: src/components/Steps.js:27
+#: src/components/Steps.js:31
+#: src/components/Steps.js:98
+msgid "Identification"
+msgstr "Identifizierung"
+
+#: src/components/Statement.js:258
+msgid "If the above service does not respond, you should contact the following organisation:"
+msgstr "Wenn der oben genannte Dienst nicht reagiert, können Sie sich an die folgende Kontrollstelle wenden:"
+
+#: src/components/Step1.js:340
+msgid "If this is your first statement, note the same date as above."
+msgstr "Wenn dies Ihre erste Erklärung ist, notieren Sie das gleiche Datum wie oben."
+
+#: src/components/Statement.js:242
+msgid "If you have any questions or thoughts about the accessibility of our website/application, please contact us:"
+msgstr "Wenn Sie Fragen oder Gedanken zur Zugänglichkeit unserer Website/Anwendung haben, können Sie sich an :"
+
+#: src/components/Statement.js:274
+msgid "Improvement plan"
+msgstr "Plan zur Verbesserung"
+
+#: src/components/Step5.js:130
+msgid "In case of non-compliance, which organization to contact if this service does not respond?"
+msgstr "Welche Organisation sollte im Falle der Nichteinhaltung kontaktiert werden, wenn dieser Dienst nicht reagiert?"
+
+#: src/components/Step6.js:57
+#: src/components/Steps.js:82
+#: src/components/Steps.js:86
+#: src/components/Steps.js:103
+msgid "In conclusion"
+msgstr "Abschließend"
+
+#: src/components/Step2.js:275
+msgid "In partial compliance"
+msgstr "In teilweiser Übereinstimmung"
+
+#: src/components/Step2.js:202
+msgid "In-depth"
+msgstr "Eingehend"
+
+#: src/components/Home.js:179
+msgid "Information"
+msgstr "Informationen"
+
+#: src/components/Step2.js:138
+msgid "Internal audit"
+msgstr "Interne Rechnungsprüfung"
+
+#: src/components/Result.js:52
+msgid "It must be updated every time your site is modified in a major way and, as far as possible, updated every year."
+msgstr "Sie muss jedes Mal aktualisiert werden, wenn Ihre Website in größerem Umfang geändert wird, und mindestens jedes Jahr aktualisiert werden."
+
+#: src/components/Statement.js:73
+msgid "Law of July 19th 2018 regarding the accessibility of websites and mobile applications for government organisations"
+msgstr "Gesetz vom 19. Juli 2018 über die  barrierefreien Zugang zu den Websites und mobilen Anwendungen von Organisationen des öffentlichen Sektors"
+
+#: src/components/Statement.js:114
+#: src/components/Step2.js:109
+#: src/components/Steps.js:38
+#: src/components/Steps.js:42
+#: src/components/Steps.js:99
+msgid "Level of compliance"
+msgstr "Grad der Einhaltung"
+
+#: src/components/Step2.js:212
+msgid "Link to your audit report"
+msgstr "Link zu Ihrem Audit-Bericht"
+
+#: src/components/Step4.js:169
+msgid "List the different contents of your site that benefit from an exemption and specify the reasons for it"
+msgstr "Listen Sie die verschiedenen Inhalte Ihrer Website auf, für die eine Ausnahmeregelung gilt, und geben Sie die Gründe dafür an"
+
+#: src/components/Steps.js:95
+msgid "Menu"
+msgstr "Menü"
+
+#: src/components/Statement.js:105
+#: src/components/Step1.js:191
+msgid "Mobile application"
+msgstr "Mobile Anwendung"
+
+#: src/components/Step1.js:270
+msgid "Name of your guardianship authority"
+msgstr "Name Ihrer Aufsichtsbehörde"
+
+#: src/components/Step1.js:127
+msgid "Name of your organization"
+msgstr "Name Ihrer Organisation"
+
+#: src/components/Step1.js:384
+#: src/components/Step2.js:442
+#: src/components/Step3.js:188
+#: src/components/Step4.js:294
+#: src/components/Step5.js:184
+#: src/components/Step6.js:156
+msgid "Next"
+msgstr "Nächste"
+
+#: src/components/Step2.js:385
+#: src/components/Step4.js:153
+msgid "No"
+msgstr "Nein"
+
+#: src/components/Statement.js:203
+#: src/components/Step3.js:67
+#: src/components/Steps.js:49
+#: src/components/Steps.js:53
+#: src/components/Steps.js:100
+msgid "Non-accessible content"
+msgstr "Nicht-zugänglicher Inhalt"
+
+#: src/components/Step2.js:260
+msgid "Not in compliance"
+msgstr "Nicht konform"
+
+#: src/components/Step2.js:170
+msgid "Note that full compliance can only be verified through an audit in-depth"
+msgstr "Beachten Sie, dass die vollständige Einhaltung nur durch eine gründliche Prüfung überprüft werden kann"
+
+#: src/components/Steps.js:106
+msgid "Ok"
+msgstr "Ok"
+
+#: src/components/Statement.js:82
+msgid "Ordinance regarding the accessibility of websites and  mobile applications for regional government bodies and the municipalities (Brussels Capital Region)"
+msgstr "Verordnung über die Zugänglichkeit der Websites und mobilen Anwendungen der regionalen Behörden und Gemeinden (Region Brüssel-Hauptstadt)"
+
+#: src/components/Statement.js:166
+msgid "Preparing your statement"
+msgstr "Vorbereitung Ihrer Rückkehr"
+
+#: src/components/Result.js:61
+#: src/components/Step1.js:376
+#: src/components/Step2.js:434
+#: src/components/Step3.js:180
+#: src/components/Step4.js:286
+#: src/components/Step5.js:176
+#: src/components/Step6.js:148
+msgid "Previous"
+msgstr "Vorherige"
+
+#: src/components/Step1.js:252
+msgid "Remove"
+msgstr "Entfernen"
+
+#: src/components/Step1.js:120
+#: src/components/Step2.js:115
+#: src/components/Step3.js:73
+#: src/components/Step4.js:95
+#: src/components/Step5.js:68
+#: src/components/Step6.js:63
+msgid "Required fields are marked with an asterisk (<abbr class=\"red\" title=\"Required fields\">*</abbr>)."
+msgstr "Pflichtfelder sind mit einem Sternchen gekennzeichnet (<abbr class=\"red\" title=\"Pflichtfelder\">*</abbr>)."
+
+#: src/components/Save.js:56
+msgid "Save my form"
+msgstr "Mein Formular speichern"
+
+#: src/components/Step2.js:188
+msgid "Simplified"
+msgstr "Vereinfacht"
+
+#: src/components/Statement.js:103
+#: src/components/Step1.js:174
+msgid "Site"
+msgstr "Website"
+
+#: src/components/Step1.js:149
+msgid "Site/Application"
+msgstr "Website/Anwendung"
+
+#: src/components/Step3.js:81
+msgid "Specify how certain parts of your site are not or partially compliant with the accessibility criteria"
+msgstr "Geben Sie an, inwiefern bestimmte Teile Ihrer Website die Zugänglichkeitskriterien nicht oder nur teilweise erfüllen"
+
+#: src/components/Result.js:36
+msgid "Success!"
+msgstr "Sie sind fertig!"
+
+#: src/components/Statement.js:212
+msgid "Suggested alternatives"
+msgstr "Vorgeschlagene Alternativen"
+
+#: src/components/Step1.js:244
+#: src/components/Step2.js:235
+msgid "The URL is invalid"
+msgstr "Die URL ist ungültig"
+
+#: src/components/Statement.js:308
+msgid "The last review of the declaration was made on {date}"
+msgstr "Die letzte Überprüfung der Erklärung fand am {date} statt."
+
+#: src/components/Result.js:46
+msgid "This accessibility declaration must be re-read and completed if necessary by your organization. It is indeed your responsibility."
+msgstr "Diese Zugänglichkeitserklärung sollte von Ihrer Organisation überprüft und ggf. ergänzt werden. Es liegt in Ihrer Verantwortung."
+
+#: src/components/Statement.js:95
+msgid "This accessibility statement applies to:"
+msgstr "Diese Zugänglichkeitserklärung gilt für :"
+
+#: src/components/Step1.js:141
+#: src/components/Step1.js:199
+#: src/components/Step1.js:236
+#: src/components/Step1.js:328
+#: src/components/Step1.js:368
+#: src/components/Step2.js:158
+#: src/components/Step2.js:207
+#: src/components/Step2.js:230
+#: src/components/Step2.js:297
+#: src/components/Step2.js:391
+#: src/components/Step2.js:423
+#: src/components/Step3.js:119
+#: src/components/Step3.js:172
+#: src/components/Step4.js:160
+#: src/components/Step4.js:268
+#: src/components/Step5.js:122
+#: src/components/Step5.js:167
+#: src/components/Step6.js:113
+msgid "This field is required"
+msgstr "Dieses Feld muss ausgefüllt werden"
+
+#: src/components/Statement.js:293
+msgid "This statement was prepared on {date}"
+msgstr "Diese Erklärung wurde am {date} vorbereitet."
+
+#: src/components/Step1.js:157
+msgid "Type"
+msgstr "Geben Sie  ein"
+
+#: src/components/Step1.js:208
+msgid "URL"
+msgstr "URL"
+
+#: src/components/Home.js:141
+msgid "Upload an accessibility statement"
+msgstr "Herunterladen  einer Erklärung zur Barrierefreiheit"
+
+#: src/components/Step1.js:289
+msgid "Wallonia-Brussels Federation"
+msgstr "Föderation Wallonie-Brüssel"
+
+#: src/components/Step1.js:284
+msgid "Walloon Region"
+msgstr "Wallonische Region"
+
+#: src/components/Step2.js:167
+msgid "Was it a simplified or an in-depth audit?"
+msgstr "War es eine vereinfachte oder vertiefte Prüfung?"
+
+#: src/components/Home.js:117
+msgid "Welcome to your assistant! In a few clicks, you can now create the accessibility statement of your site or mobile application."
+msgstr "Willkommen bei Ihrem Assistenten! Mit nur wenigen Klicks können Sie nun die Zugänglichkeitserklärung für Ihre Website oder mobile Anwendung erstellen."
+
+#: src/components/Step3.js:128
+msgid "What alternatives can you offer to the visitors of your site/application to allow them to access this content?"
+msgstr "Welche Alternativen können Sie den Besuchern Ihrer Website/Anwendung anbieten, um ihnen den Zugang zu diesen Inhalten zu ermöglichen?"
+
+#: src/components/Step6.js:71
+msgid "What changes do you plan to make to improve the level of accessibility of your site?"
+msgstr "Welche Änderungen planen Sie, um den Zugänglichkeitsgrad Ihrer Website zu verbessern?"
+
+#: src/components/Header.js:10
+msgid "Wizard for filling the accessibility statement"
+msgstr "Assistent zum Ausfüllen der Zugänglichkeitserklärung"
+
+#: src/components/Step6.js:120
+msgid "Would you like to add something about the accessibility of your site that has not been addressed previously?"
+msgstr "Möchten Sie etwas zur Zugänglichkeit Ihrer Website hinzufügen, was bisher noch nicht angesprochen wurde?"
+
+#: src/components/Step2.js:368
+#: src/components/Step4.js:139
+msgid "Yes"
+msgstr "Ja"
+
+#: src/components/Statement.js:181
+msgid "You can review the report here:"
+msgstr "Sie können den Bericht hier lesen:"
+
+#: src/components/Result.js:39
+msgid "Your accessibility statement has been generated. You can copy the HTML via the button below. Remember that a link to your accessibility declaration must be present in the footer of your site."
+msgstr "Ihre Zugänglichkeitserklärung wurde generiert. Sie können das HTML über die Schaltfläche unten kopieren. Denken Sie daran, dass in der Fußzeile Ihrer Website ein Link zu Ihrer Zugänglichkeitserklärung vorhanden sein muss."
+
+#: src/components/Result.js:83
+msgid "Your declaration"
+msgstr "Ihre Erklärung"
+
+#: src/components/Statement.js:174
+msgid "{0, select, inDepth {This audit was an in depth analysis.} simplified {This audit was a simplified analysis.} other {Error}}"
+msgstr "{0, select, inDepth {Diese Prüfung war eine vertiefte Analyse.} simplified {Diese Prüfung war eine vereinfachte Analyse.} other {Fehler}}"
+
+#: src/components/Statement.js:168
+msgid "{0, select, internal {An internal audit of the accessiblity has been made.} external {An external audit of the accessiblity has been made.} other {Error}}"
+msgstr "{0, select, internal {Es wurde ein internes Zugänglichkeitsaudit durchgeführt.} external {Es wurde ein externes Zugänglichkeitsaudit durchgeführt.} other {Fehler}}"
+
+#: src/components/Statement.js:118
+msgid "{apps, select, oneApp {This mobile application is fully compliant as described below.} MultipleApps {These mobile applications are fully compliant as described below.} oneSite {This site is fully compliant as described below.} MultipleSites {These sites are fully compliant as described below.} OneAppOneSite {This site and mobile application are fully compliant as described below.} OneAppMultipleSites {These sites and mobile application are fully compliant as described below.} MultipleAppsOneSite {This site and mobile applications are fully compliant as described below.} MultipleAppsMultipleSites {These sites and mobile applications are fully compliant as described below.} other {Error}}"
+msgstr "{apps, select, oneApp {Diese mobile Anwendung ist vollständig konform, wie unten beschrieben.} MultipleApps {Diese mobile Anwendung ist vollständig konform wie unten beschrieben.} oneSite {Diese Website ist vollständig konform wie unten beschrieben.} MultipleSites {Diese Sites sind vollständig konform, wie unten beschrieben.} OneAppOneSite {Diese Website und die mobile Anwendung sind vollständig kompatibel wie unten beschrieben.}  OneAppMultipleSites {Diese Websites und die mobile Anwendung sind vollständig konform, wie unten beschrieben.} MultipleAppsOneSite {Diese Website und die mobile Anwendung sind vollständig konform, wie unten beschrieben.} MultipleAppsMultipleSites {Diese Websites und mobilen Anwendungen sind vollständig konform, wie unten beschrieben.} other {Fehler}}"
+
+#: src/components/Statement.js:133
+msgid "{apps, select, oneApp {This mobile application is in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleApps {These mobile applications are in partial compliance as described below, due to the non-conformities and exemptions listed below.} oneSite {This site is in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleSites {These sites are in partial compliance as described below, due to the non-conformities and exemptions listed below.} OneAppOneSite {This site and mobile application are in partial compliance as described below, due to the non-conformities and exemptions listed below.} OneAppMultipleSites {These sites and mobile application are in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleAppsOneSite {This site and mobile applications are in partial compliance as described below, due to the non-conformities and exemptions listed below.} MultipleAppsMultipleSites {These sites and mobile applications are in partial compliance as described below, due to the non-conformities and exemptions listed below.} other {Error}}"
+msgstr "{apps, select, oneApp {Diese mobile Anwendung entspricht aufgrund der unten aufgeführten Verstöße und Ausnahmeregelungen teilweise den Anforderungen, wie unten beschrieben.}  MultipleApps {Diese mobilen Anwendungen entsprechen aufgrund der unten aufgeführten Verstöße und Ausnahmen teilweise den Anforderungen, wie unten beschrieben.} oneSite {Diese Website entspricht aufgrund der unten aufgeführten Verstöße und Ausnahmen teilweise den Anforderungen, wie unten beschrieben.} MultipleSites {Diese Sites erfüllen aufgrund der unten aufgeführten Nichtkonformitäten und Ausnahmen teilweise die unten beschriebenen Bedingungen.} OneAppOneSite { Diese Website und diese mobile Anwendung entsprechen aufgrund der unten aufgeführten Nicht-Konformitäten und Ausnahmen teilweise den unten beschriebenen Anforderungen.} OneAppMultipleSites {Diese Website und die mobile Anwendung entsprechen aufgrund der unten aufgeführten Nichtkonformitäten und Ausnahmen teilweise den unten beschriebenen Anforderungen.} MultipleAppsOneSite { Diese Website und die mobilen Anwendungen entsprechen aufgrund der unten aufgeführten Verstöße und Ausnahmen teilweise den unten beschriebenen Anforderungen.} MultipleAppsMultipleSites {Diese Websites und mobilen Anwendungen entsprechen, wie unten beschrieben, aufgrund der unten aufgeführten Nichtkonformitäten und Ausnahmen teilweise den Anforderungen.} other {Fehler}}"
+
+#: src/components/Statement.js:148
+msgid "{apps, select, oneApp {This mobile application is not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleApps {These mobile applications are not in compliance as described below. Non-compliances and exemptions are listed below.} oneSite {This site is not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleSites {These sites are not in compliance as described below. Non-compliances and exemptions are listed below.} OneAppOneSite {This site and mobile application are not in compliance as described below. Non-compliances and exemptions are listed below.} OneAppMultipleSites {These sites and mobile application are not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleAppsOneSite {This site and mobile applications are not in compliance as described below. Non-compliances and exemptions are listed below.} MultipleAppsMultipleSites {These sites and mobile applications are not in compliance as described below. Non-compliances and exemptions are listed below.} other {Error}}"
+msgstr "{apps, select, oneApp {Diese mobile Anwendung ist nicht konform, wie unten beschrieben. Nicht-Konformitäten und Ausnahmen sind im Folgenden aufgeführt.} MultipleApps {Diese mobilen Anwendungen sind, wie unten beschrieben, nicht konform. Nicht-Konformitäten und Ausnahmen sind unten aufgeführt.} oneSite {Diese Website ist nicht konform, wie unten beschrieben. Nicht-Konformitäten und Ausnahmen sind unten aufgeführt.} MultipleSites { Diese Websites sind, wie unten beschrieben, nicht konform. Nicht-Konformitäten und Ausnahmen sind unten aufgeführt.} OneAppOneSite { Diese Website und die mobile Anwendung sind, wie unten beschrieben, nicht konform. Nicht-Konformitäten und Ausnahmen sind unten aufgeführt.} OneAppMultipleSites {Diese Website und die mobile Anwendung sind, wie unten beschrieben, nicht konform. Nicht-Konformitäten und Ausnahmen sind unten aufgeführt.} MultipleAppsOneSite {Diese Website und mobile Anwendungen sind, wie unten beschrieben, nicht konform. Nicht-Konformitäten und Ausnahmen sind unten aufgeführt.} MultipleAppsMultipleSites {Diese Website und mobile Anwendungen sind, wie unten beschrieben, nicht konform. Nichteinhaltung und Ausnahmen sind unten aufgeführt.} other {Fehler}}"
+
+#: src/components/Statement.js:60
+msgid "{apps, select, oneApp {{0}, undertakes to make this mobile application accessible, in accordance with the following legislation:} MultipleApps {{1}, undertakes to make these mobile applications accessible, in accordance with the following legislation:} oneSite {{2}, undertakes to make this site accessible, in accordance with the following legislation:} MultipleSites {{3}, undertakes to make these sites accessible, in accordance with the following legislation:} OneAppOneSite {{4}, undertakes to make this site and mobile application accessible, in accordance with the following legislation:} OneAppMultipleSites {{5}, undertakes to make these sites and mobile application accessible, in accordance with the following legislation:} MultipleAppsOneSite {{6}, undertakes to make this site and mobile applications accessible, in accordance with the following legislation:} MultipleAppsMultipleSites {{7}, undertakes to make these sites and mobile applications accessible, in accordance with the following legislation:} other {Error}}"
+msgstr "{apps, select, oneApp {{0}, verpflichtet sich, diese mobile Anwendung in Übereinstimmung mit der folgenden Gesetzgebung zugänglich zu machen :} MultipleApps {{1}, verpflichtet sich, diese mobilen Anwendungen in Übereinstimmung mit der folgenden Gesetzgebung zugänglich zu machen:} oneSite {{2}, verpflichtet sich, diese Website in Übereinstimmung mit der folgenden Gesetzgebung zugänglich zu machen:}MultipleSites {{3}, verpflichtet sich, diese Seiten gemäß der folgenden Gesetzgebung zugänglich zu machen:}  OneAppOneSite {{4}, verpflichtet sich, diese Website und die mobile Anwendung in Übereinstimmung mit der folgenden Gesetzgebung zugänglich zu machen:} OneAppMultipleSites {{5}, verpflichtet sich, diese Websites und diese mobile Anwendung gemäß der folgenden Gesetzgebung zugänglich zu machen:} MultipleAppsOneSite {{6}, verpflichtet sich, diese Website und mobile Anwendungen gemäß den folgenden Rechtsvorschriften zugänglich zu machen:} MultipleAppsMultipleSites {{7}, verpflichtet sich, diese Websites und mobilen Anwendungen in Übereinstimmung mit der folgenden Gesetzgebung zugänglich zu machen :} other {Error}}"

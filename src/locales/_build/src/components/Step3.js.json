@@ -1,0 +1,78 @@
+{
+  "Non-accessible content": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        67
+      ]
+    ]
+  },
+  "Required fields are marked with an asterisk (<abbr class=\"red\" title=\"Required fields\">*</abbr>).": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        73
+      ]
+    ]
+  },
+  "Specify how certain parts of your site are not or partially compliant with the accessibility criteria": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        81
+      ]
+    ]
+  },
+  "<p> You can rely on the accessibility audit of your site in order to resume the resulting list of errors. Be careful, this list will appear as is in your declaration. Therefore, please make it as comprehensible as possible. </p>": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        89
+      ]
+    ]
+  },
+  "This field is required": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        119
+      ],
+      [
+        "src/components/Step3.js",
+        172
+      ]
+    ]
+  },
+  "What alternatives can you offer to the visitors of your site/application to allow them to access this content?": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        128
+      ]
+    ]
+  },
+  "<p> While waiting to be able to correct certain non-compliant content or when you mention an exemption or a disproportionate burden, you can propose <strong>alternatives</strong> to improve the access of any citizen to the information located on your site. These alternatives can be very varied: a different link to the same information, an additional helpline for people with disabilities, help for users of assistive technology, etc. </p>": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        136
+      ]
+    ]
+  },
+  "Previous": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        180
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/components/Step3.js",
+        188
+      ]
+    ]
+  }
+}
