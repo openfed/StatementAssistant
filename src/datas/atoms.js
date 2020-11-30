@@ -5,6 +5,11 @@ export const language = atom({
   default: "en",
 });
 
+export const languageDisplay = atom({
+  key: "languageDisplay",
+  default: true,
+});
+
 export const languagesList = atom({
   key: "languagesList",
   default: ["nl", "fr", "de", "en"],

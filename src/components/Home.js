@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Trans, t } from "@lingui/macro";
 import { withI18n } from "@lingui/react";
 import { Link, useHistory } from "react-router-dom";
-import { form as formAtom, language } from "../datas/atoms";
+import { form as formAtom, language, languageDisplay } from "../datas/atoms";
 import { useSetRecoilState } from "recoil";
 import Header from "./Header";
 import "react-responsive-modal/styles.css";
@@ -13,6 +13,7 @@ const Home = ({ i18n }) => {
   const setForm = useSetRecoilState(formAtom);
   const [open, setOpen] = useState(false);
   const setLang = useSetRecoilState(language);
+  const setlanguageDisplay = useSetRecoilState(languageDisplay);
 
   const closeIcon = (
     <svg
@@ -60,8 +61,10 @@ const Home = ({ i18n }) => {
     const location = window.location.href;
     const langUrl= location.split("?");
 
+    // if we force the language, we also hide the language switcher
     if(langUrl.length > 1){
       setLang(langUrl[1]);
+      setlanguageDisplay(false);
     }
     // eslint-disable-next-line
   }, [])
