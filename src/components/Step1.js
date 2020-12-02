@@ -210,7 +210,7 @@ const Step1 = ({ i18n }) => {
                     <div className="col-sm-7 col-md-9">
                       <input
                         required
-                        type="text"
+                        type="url"
                         name={`apps[${index}].url`}
                         id={`apps[${index}].url`}
                         className={
@@ -222,9 +222,6 @@ const Step1 = ({ i18n }) => {
                         }
                         ref={register({
                           required: true,
-                          pattern: {
-                            value: /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&//=]*)$/i,
-                          },
                         })}
                       />
 
