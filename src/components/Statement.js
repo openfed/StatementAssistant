@@ -70,26 +70,48 @@ const Statement = ({ i18n, form, raw }) => {
           other="Error"
         />{" "}
         {form.step1.guardianshipAuthority === "fed" && (
-          <Trans>Law of July 19th 2018 regarding the accessibility of websites and mobile applications for government organisations</Trans>
+          <Trans>
+            Law of July 19th 2018 regarding the accessibility of websites and
+            mobile applications for government organisations
+          </Trans>
         )}
         {form.step1.guardianshipAuthority === "flemReg" && (
           <Trans>Governing decree from December 7th 2018 (Flanders)</Trans>
         )}
         {form.step1.guardianshipAuthority === "walReg" && (
-          <Trans>Decree of May 2nd 2019 regarding the accessibility of websites and mobile applications for government bodies (Walloon region)</Trans>
+          <Trans>
+            Decree of May 2nd 2019 regarding the accessibility of websites and
+            mobile applications for government bodies (Walloon region)
+          </Trans>
         )}
         {form.step1.guardianshipAuthority === "bruReg" && (
-          <Trans>Ordinance regarding the accessibility of websites and  mobile applications for regional government bodies and the municipalities (Brussels Capital Region)</Trans>
+          <Trans>
+            Ordinance regarding the accessibility of websites and mobile
+            applications for regional government bodies and the municipalities
+            (Brussels Capital Region)
+          </Trans>
         )}
         {form.step1.guardianshipAuthority === "walBruFed" && (
-          <Trans>Decree of May 3rd 2019 regarding the accessibility of websites and mobile applications for government organisations (Wallonia-Brussels Federation)</Trans>
+          <Trans>
+            Decree of May 3rd 2019 regarding the accessibility of websites and
+            mobile applications for government organisations (Wallonia-Brussels
+            Federation)
+          </Trans>
         )}
         {form.step1.guardianshipAuthority === "freComCom" && (
-          <Trans>Decree of May 9th 2019 regarding the accessibility of websites and mobile applications for government organisations of the French Community Commission</Trans>
+          <Trans>
+            Decree of May 9th 2019 regarding the accessibility of websites and
+            mobile applications for government organisations of the French
+            Community Commission
+          </Trans>
         )}
         {form.step1.guardianshipAuthority === "gerCom" && (
-          <Trans>Decree regarding the non-public and public electronic communication for governing bodies in the German speaking territory</Trans>
-        )}.
+          <Trans>
+            Decree regarding the non-public and public electronic communication
+            for governing bodies in the German speaking territory
+          </Trans>
+        )}
+        .
       </p>
       <p>
         <Trans>This accessibility statement applies to:</Trans>
@@ -165,21 +187,26 @@ const Statement = ({ i18n, form, raw }) => {
           <h2>
             <Trans>Preparing your statement</Trans>
           </h2>
-          <Select
-            value={form.step2.audit}
-            internal="An internal audit of the accessiblity has been made."
-            external="An external audit of the accessiblity has been made."
-            other="Error"
-          />{" "}
-          <Select
-            value={form.step2.auditDepth}
-            inDepth="This audit was an in depth analysis."
-            simplified="This audit was a simplified analysis."
-            other="Error"
-          />
           <p>
-            <Trans>You can review the report here:</Trans>{" "}
-            <a href="{form.step2.auditUrl}">{form.step2.auditUrl}</a>
+            <Select
+              value={form.step2.audit}
+              internal="An internal audit of the accessiblity has been made."
+              external="An external audit of the accessiblity has been made."
+              other="Error"
+            />{" "}
+            <Select
+              value={form.step2.auditDepth}
+              inDepth="This audit was an in depth analysis."
+              simplified="This audit was a simplified analysis."
+              other="Error"
+            />
+            {form.step2.auditUrl && (
+              <>
+                {" "}
+                <Trans>You can review the report here:</Trans>{" "}
+                <a href={form.step2.auditUrl}>{form.step2.auditUrl}</a>
+              </>
+            )}
           </p>
         </>
       )}

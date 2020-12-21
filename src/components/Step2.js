@@ -208,21 +208,15 @@ const Step2 = ({ i18n }) => {
               </span>
             )}
           </div>
-          <label htmlFor="auditUrl" className="required col-sm-5 col-md-3">
+          <label htmlFor="auditUrl" className="col-sm-5 col-md-3">
             <Trans>Link to your audit report</Trans>
           </label>
           <div className="col-sm-7 col-md-9">
             <input
-              required
-              type="text"
+              type="url"
               id="auditUrl"
               name="auditUrl"
-              ref={register({
-                required: true,
-                pattern: {
-                  value: /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&//=]*)$/i,
-                },
-              })}
+              ref={register}
               className={errors.auditUrl ? "error" : ""}
             />
             {errors.auditUrl && errors.auditUrl.type === "required" && (

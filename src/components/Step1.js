@@ -165,7 +165,7 @@ const Step1 = ({ i18n }) => {
                           name={`apps[${index}].app`}
                           id={`apps[${index}].site`}
                           value="site"
-                          ref={register}
+                          ref={register({ required: true })}
                         />
                         <label
                           className="form-check-label"
