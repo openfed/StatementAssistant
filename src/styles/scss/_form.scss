@@ -15,7 +15,7 @@ form {
     &.required {
       &:after {
         content: "*";
-        display: inline;
+        position: absolute;
         color: $red;
         padding: 0 0.1875rem;
       }
@@ -210,7 +210,7 @@ fieldset {
   }
 
   @media (min-width: 576px) and (max-width: 1070px) {
-    font-size: 0.8125rem;    
+    font-size: 0.8125rem;
     padding: 0 0.9375rem 0 0.75rem;
   }
 
