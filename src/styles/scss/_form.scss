@@ -22,7 +22,7 @@ form {
     }
 
     &.form-check-label {
-      padding-left: 1.25rem;
+      padding: 0 0 0 1rem;
     }
   }
 
@@ -61,6 +61,8 @@ textarea {
   border: 0.0625rem solid #707070;
   border-radius: 0;
   height: 3.125rem;
+  font-family: $font;
+  font-size: $font-size;
 
   &.error {
     border-color: $red;
