@@ -75,10 +75,6 @@ const Step2 = ({ i18n }) => {
         }
       }, 300);
     }
-
-    setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    }, 300);
     // eslint-disable-next-line
   }, []);
 

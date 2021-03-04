@@ -100,8 +100,6 @@ const Step1 = ({ i18n }) => {
     } else {
       addApp();
     }
-
-    window.scrollTo({ top: 0, behavior: "smooth" });
     // eslint-disable-next-line
   }, []);
 

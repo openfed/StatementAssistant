@@ -43,8 +43,6 @@ const Step6 = ({ i18n }) => {
         shouldValidate: true,
       });
     }
-
-    window.scrollTo({ top: 0, behavior: "smooth" });
     // eslint-disable-next-line
   }, []);
 
