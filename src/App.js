@@ -16,6 +16,7 @@ import Step4 from "./components/Step4";
 import Step5 from "./components/Step5";
 import Step6 from "./components/Step6";
 import Result from "./components/Result";
+import ScrollToTop from "./components/ScrollToTop";
 
 const catalogs = {
   de: catalogDe,
@@ -32,6 +33,7 @@ export default function App() {
       <Router>
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
+        <ScrollToTop />
         <Switch>
           <Route path="/step1">
             <Step1 />
