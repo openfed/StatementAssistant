@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/css/style.css";
+import "./styles/scss/style.scss";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { I18nProvider } from "@lingui/react";
 import { useRecoilValue } from "recoil";

@@ -6,6 +6,8 @@ body {
   line-height: 1.5;
   overflow-x: hidden;
   padding-bottom: 0.9375rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
