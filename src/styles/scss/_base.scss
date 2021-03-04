@@ -112,7 +112,7 @@ ul.lower-alpha {
   list-style-type: lower-alpha;
   margin-left: 2.1875rem;
   margin-bottom: 0.9375rem;
-  
+
   li {
     padding-bottom: 0.9375rem;
   }
@@ -123,7 +123,7 @@ ul.decimal {
   list-style-type: decimal;
   margin-left: 2.1875rem;
   margin-bottom: 0.9375rem;
-  
+
   li {
     padding-bottom: 0.9375rem;
   }
@@ -134,7 +134,7 @@ ul.disc {
   list-style-type: disc;
   margin-left: 2.1875rem;
   margin-bottom: 0.9375rem;
-  
+
   li {
     padding-bottom: 0.9375rem;
   }
@@ -145,7 +145,7 @@ ul.circle {
   list-style-type: circle;
   margin-left: 2.1875rem;
   margin-bottom: 0.9375rem;
-  
+
   li {
     padding-bottom: 0.9375rem;
   }
@@ -156,7 +156,7 @@ ul.upper-roman {
   list-style-type: upper-roman;
   margin-left: 2.1875rem;
   margin-bottom: 0.9375rem;
-  
+
   li {
     padding-bottom: 0.9375rem;
   }
@@ -167,7 +167,7 @@ ul.lower-roman {
   list-style-type: lower-roman;
   margin-left: 2.1875rem;
   margin-bottom: 0.9375rem;
-  
+
   li {
     padding-bottom: 0.9375rem;
   }
@@ -366,7 +366,8 @@ hr {
 }
 
 .home {
-  background: url(../img/bg.png) no-repeat center bottom;
+  background: url(../img/bg.png) no-repeat center 70px;
+  padding-bottom: 100px;
 
   .presentation {
     font-size: 1.5rem;
@@ -404,7 +405,7 @@ hr {
   background: #edf8ff;
   border: 0.1875rem solid #0077c4;
   font-size: 1.5rem;
-  margin: 13.75rem 0 0 0;
+  margin-bottom: 20px;
 
   @media (max-width: 1024px) {
     padding: 1.875rem 4.375rem;
@@ -475,7 +476,7 @@ hr {
     .preview {
       h1 {
         font-size: 1.875rem;
-        
+
         @media (max-width: 575px) {
           font-size: 1.5rem;
         }
