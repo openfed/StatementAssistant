@@ -53,8 +53,6 @@ const Step3 = ({ i18n }) => {
         }
       );
     }
-    
-    window.scrollTo({ top: 0, behavior: "smooth" });
     // eslint-disable-next-line
   }, []);
 

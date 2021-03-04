@@ -65,7 +65,6 @@ const Step4 = ({ i18n }) => {
             }
           );
         }
-        window.scrollTo({ top: 0, behavior: "smooth" });
       }, 300);
     }
     // eslint-disable-next-line

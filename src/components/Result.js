@@ -15,8 +15,6 @@ export default function Result() {
   const myRef = useRef();
 
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-
     if (!form.hasOwnProperty("step1")) {
       history.push("/");
     }
