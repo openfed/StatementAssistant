@@ -30,10 +30,6 @@ Compile locales
 
 Add a locale to the app. (EN)/FR/NL/DE are already in the app.
 
-`node-sass -rw ./src/styles/scss/ -o ./src/styles/css/ --output-style compressed`
-
-To modify the SASS
-
 `netlify deploy --prod`
 
 To deploy on netlify for testing purpose.
@@ -133,4 +129,4 @@ Documentation CKEditor 4 toolbar : https://ckeditor.com/docs/ckeditor4/latest/fe
 
     <div className="db pt-15">
 		<button onClick={inject}>Inject</button>
-	</div>
+    </div>
