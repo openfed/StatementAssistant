@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import { useRecoilState, useRecoilValue } from "recoil";
 import { useForm } from "react-hook-form";
 import { Trans, t } from "@lingui/macro";
@@ -18,8 +18,10 @@ const Step3 = ({ i18n }) => {
   let history = useHistory();
   const [form, setForm] = useRecoilState(formAtom);
   const ckeditorToolbar = useRecoilValue(ckeditorToolbarAtom);
+  const editorEl = useRef(null);
+  const editorElAlt = useRef(null);
 
-  const { register, getValues, errors, setValue, handleSubmit } = useForm();
+  const { register, getValues, errors, setValue, formState, handleSubmit } = useForm();
 
   const onSubmit = (data) => {
     setForm({ ...form, step3: data });
@@ -55,6 +57,14 @@ const Step3 = ({ i18n }) => {
     }
     // eslint-disable-next-line
   }, []);
+
+  useEffect(() => {
+    if (formState.errors.nonAccesiblePart) {
+      editorEl.current.scrollIntoView();
+    } else if (formState.errors.nonAccesiblePartAlternative) {
+      editorElAlt.current.scrollIntoView();
+    }
+  }, [formState])
 
   return (
     <div className="steps step-3 container-fluid">
@@ -94,7 +104,7 @@ const Step3 = ({ i18n }) => {
             </Modal>
           </div>
 
-          <div className="col-sm-7 col-md-9">
+          <div className="col-sm-7 col-md-9" ref={editorEl}>
             <CKEditor
               data={
                 form.hasOwnProperty("step3") &&
@@ -113,7 +123,7 @@ const Step3 = ({ i18n }) => {
             />
             {errors.nonAccesiblePart &&
               errors.nonAccesiblePart.type === "required" && (
-                <span className="error">
+                <span className="error" role="alert">
                   <Trans>This field is required</Trans>
                 </span>
               )}
@@ -148,7 +158,7 @@ const Step3 = ({ i18n }) => {
             </Modal>
           </div>
 
-          <div className="col-sm-7 col-md-9">
+          <div className="col-sm-7 col-md-9" ref={editorElAlt}>
             <CKEditor
               data={
                 form.hasOwnProperty("step3") &&
@@ -166,7 +176,7 @@ const Step3 = ({ i18n }) => {
             />
             {errors.nonAccesiblePartAlternative &&
               errors.nonAccesiblePartAlternative.type === "required" && (
-                <span className="error">
+                <span className="error" role="alert">
                   <Trans>This field is required</Trans>
                 </span>
               )}
