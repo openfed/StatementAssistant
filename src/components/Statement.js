@@ -1,5 +1,5 @@
 import React from "react";
-import { Trans, Select, t } from "@lingui/macro";
+import { Trans, Select } from "@lingui/macro";
 import { withI18n } from "@lingui/react";
 
 const Statement = ({ i18n, form, raw }) => {
