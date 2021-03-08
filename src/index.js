@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import { RecoilRoot } from "recoil";
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import iframeWorkArounds from './iframe-work-arounds';
+
+iframeWorkArounds();
 
 ReactDOM.render(
   <React.StrictMode>
