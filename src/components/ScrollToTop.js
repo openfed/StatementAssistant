@@ -6,6 +6,9 @@ export default function ScrollToTop() {
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    if ('parentIFrame' in window) {
+      window.parentIFrame.moveToAnchor('root');
+    }
   }, [pathname]);
 
   return null;
