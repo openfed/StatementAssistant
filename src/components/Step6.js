@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import { useRecoilState, useRecoilValue } from "recoil";
 import { useForm } from "react-hook-form";
 import { Trans, t } from "@lingui/macro";
@@ -18,8 +18,9 @@ const Step6 = ({ i18n }) => {
   let history = useHistory();
   const [form, setForm] = useRecoilState(formAtom);
   const ckeditorToolbar = useRecoilValue(ckeditorToolbarAtom);
+  const editorRef = useRef(null);
 
-  const { register, getValues, setValue, errors, handleSubmit } = useForm();
+  const { register, getValues, setValue, errors, handleSubmit, formState } = useForm();
 
   const onSubmit = (data) => {
     setForm({ ...form, step6: data });
@@ -45,6 +46,14 @@ const Step6 = ({ i18n }) => {
     }
     // eslint-disable-next-line
   }, []);
+
+  useEffect(() => {
+    if (formState.errors.futurImprovementPlan) {
+      const { top } = editorRef.current.getBoundingClientRect();
+      window.scrollTo(0, top - 100);
+    }
+  }, [formState])
+
 
   return (
     <div className="steps step-7 container-fluid">
@@ -88,7 +97,7 @@ const Step6 = ({ i18n }) => {
               ></div>
             </Modal>
           </div>
-          <div className="col-sm-7 col-md-9">
+          <div className="col-sm-7 col-md-9" ref={ editorRef }>
             <CKEditor
               data={
                 form.hasOwnProperty("step6") &&
