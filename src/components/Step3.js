@@ -60,9 +60,11 @@ const Step3 = ({ i18n }) => {
 
   useEffect(() => {
     if (formState.errors.nonAccesiblePart) {
-      editorEl.current.scrollIntoView();
+      const { top } = editorEl.current.getBoundingClientRect();
+      window.scrollTo(0, top - 100);
     } else if (formState.errors.nonAccesiblePartAlternative) {
-      editorElAlt.current.scrollIntoView();
+      const { top } = editorElAlt.current.getBoundingClientRect();
+      window.scrollTo(0, top - 100);
     }
   }, [formState])
 
