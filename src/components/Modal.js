@@ -5,7 +5,7 @@ import CloseIcon from "./icons/close";
 
 export default function Modal({ children }) {
   const [open, setOpen] = useState(false);
-  const [buttonPos, setButtonPos] = useState(0);
+  const [scrollPos, setScrollPos] = useState(0);
   const modalRef = useRef(null);
 
   useEffect(() => {
@@ -26,7 +26,15 @@ export default function Modal({ children }) {
         onClick={(e) => {
           e.preventDefault();
           setOpen(true);
-          setButtonPos(e.currentTarget.getBoundingClientRect().top);
+
+          if ('parentIFrame' in window) {
+            window.parentIFrame.getPageInfo((page) => {
+              setScrollPos(page.scrollTop);
+              window.parentIFrame.getPageInfo(false);
+            });
+          } else {
+            setScrollPos(document.documentElement.scrollTop);
+          }
         }}
       >
         <Trans>Get help</Trans>
@@ -35,7 +43,7 @@ export default function Modal({ children }) {
         open={open}
         onClose={() => {
           setOpen(false);
-          window.scrollTo(0, buttonPos - 100);
+          window.scrollToOrig(0, scrollPos);
         }}
         center
         closeIcon={CloseIcon}
