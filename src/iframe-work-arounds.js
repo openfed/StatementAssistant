@@ -4,6 +4,8 @@ const proto = {
             onReady: () => this.onIFrameResizerReady()
         };
 
+        window.scrollToOrig = window.scrollTo;
+
         return this;
     },
     attachListeners() {
@@ -16,6 +18,7 @@ const proto = {
     onIFrameResizerReady() {
         if ('parentIFrame' in window) {
             window.scrollTo = window.parentIFrame.scrollToOffset;
+            window.scrollToOrig = window.parentIFrame.scrollTo;
             this.attachListeners();
         }
     },
