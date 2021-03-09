@@ -26,7 +26,6 @@ const proto = {
             const { activeElement } = document;
 
             if (target === activeElement && target.type === 'radio') {
-                console.warn('in here');
                 const { top } = activeElement.getBoundingClientRect();
                 window.scrollTo(0, top - 100);
 
