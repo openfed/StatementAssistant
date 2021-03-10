@@ -116,7 +116,6 @@ const Home = ({ i18n }) => {
 
   return (
     <>
-      <InfoBox />
       <div className="home container-fluid">
         <Header />
         <p className="text-center presentation">
@@ -151,6 +150,7 @@ const Home = ({ i18n }) => {
             <input type="submit" value="upload" className="visually-hidden" />
           </form>
         </div>
+        <InfoBox />
       </div>
     </>
   );
