@@ -374,7 +374,7 @@ hr {
   .presentation {
     font-size: 1.5rem;
     max-width: 62.5rem;
-    margin: 0 auto 10rem auto;
+    margin: 0 auto 2rem auto;
   }
 
   .wrapper {
@@ -403,15 +403,12 @@ hr {
 }
 
 .info-box {
-  padding: 3.75rem 8.75rem;
+  padding: 2.75rem 2.75rem;
   background: #edf8ff;
   border: 0.1875rem solid #0077c4;
-  font-size: 1.5rem;
-  margin-bottom: 20px;
-
-  @media (max-width: 1024px) {
-    padding: 1.875rem 4.375rem;
-  }
+  font-size: 1.25rem;
+  margin: 1.5rem auto 20px !important;
+  max-width: 43.75rem;
 
   @media (max-width: 767px) {
     font-size: 1.125rem;
@@ -432,7 +429,7 @@ hr {
       width: 4.5625rem;
       height: 4.0625rem;
       float: left;
-      margin: 0 2.5rem 1.25rem 0;
+      margin: 0.5rem 2.5rem 1.25rem 0;
       background: no-repeat top center;
       background-size: 4.5625rem 4.0625rem;
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='73.122' height='65' viewBox='0 0 73.122 65'%3E%3Cpath id='Tracé_1186' data-name='Tracé 1186' d='M34.3-36.562a.762.762,0,0,0-.762.787l.952,24.883a.759.759,0,0,0,.762.736h2.6a.767.767,0,0,0,.762-.736l.952-24.883a.762.762,0,0,0-.762-.787Zm2.26,28.945a3.549,3.549,0,0,0-3.555,3.555A3.549,3.549,0,0,0,36.562-.508a3.549,3.549,0,0,0,3.555-3.555A3.549,3.549,0,0,0,36.562-7.617ZM72.3-1.016,41.844-53.828a6.1,6.1,0,0,0-10.562,0L.825-1.016A6.1,6.1,0,0,0,6.106,8.125H67.031A6.1,6.1,0,0,0,72.3-1.016ZM67.031,4.062H6.094A2.036,2.036,0,0,1,4.329,1.016L34.8-51.8a2.031,2.031,0,0,1,3.517,0L68.783,1.016A2.029,2.029,0,0,1,67.031,4.062Z' transform='translate(-0.003 56.875)' fill='%23074374'/%3E%3C/svg%3E%0A");
