@@ -153,6 +153,13 @@ const Step5 = ({ i18n }) => {
                 }}
               ></div>
             </Modal>
+            <div className="mt-20 mb-20">
+              <em>
+                <Trans>
+                  If you have a complaint procedure in your organization, you can add it here.
+                </Trans>
+              </em>
+            </div>
           </div>
 
           <div className="col-sm-7 col-md-9" ref={ editorBackup }>
