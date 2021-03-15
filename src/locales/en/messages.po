@@ -499,3 +499,7 @@ msgstr "{apps, select, oneApp {This mobile application is not in compliance. Non
 #: src/components/Statement.js:60
 msgid "{apps, select, oneApp {{0}, undertakes to make this mobile application accessible, in accordance with the following legislation:} MultipleApps {{1}, undertakes to make these mobile applications accessible, in accordance with the following legislation:} oneSite {{2}, undertakes to make this site accessible, in accordance with the following legislation:} MultipleSites {{3}, undertakes to make these sites accessible, in accordance with the following legislation:} OneAppOneSite {{4}, undertakes to make this site and mobile application accessible, in accordance with the following legislation:} OneAppMultipleSites {{5}, undertakes to make these sites and mobile application accessible, in accordance with the following legislation:} MultipleAppsOneSite {{6}, undertakes to make this site and mobile applications accessible, in accordance with the following legislation:} MultipleAppsMultipleSites {{7}, undertakes to make these sites and mobile applications accessible, in accordance with the following legislation:} other {Error}}"
 msgstr ""
+
+#: src/components/Step5.js:159
+msgid "If you have a complaint procedure in your organization, you can add it here."
+msgstr ""
