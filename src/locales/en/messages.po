@@ -197,7 +197,7 @@ msgstr ""
 
 #: src/components/Statement.js:258
 msgid "If the above service does not respond, you should contact the following organisation:"
-msgstr "If the above service does not respond, you should contact the following mediator:"
+msgstr "If the above service does not respond, you can file your complaint by following these steps:"
 
 #: src/components/Step1.js:340
 msgid "If this is your first statement, note the same date as above."

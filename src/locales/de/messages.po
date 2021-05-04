@@ -34,7 +34,7 @@ msgstr "<p> Die Richtlinie gilt nicht für die folgenden Websites und mobilen An
 
 #: src/components/Step5.js:138
 msgid "<p> To find out the name of your guardianship authority, please contact your regulatory authority. For example, for the Federal State, it is the Federal Ombudsman. </p>"
-msgstr "<p>Um den Namen Ihre  Ombudsmann zu erfahren, wenden Sie sich bitte an Ihre Aufsichtsbehörde. Für den Föderalstaat ist es zum Beispiel der föderale Ombudsmann.</p>"
+msgstr "<p>Nachdem Sie sich an die für die Website/Anwendung zuständige Dienst gewandt haben und von dieser keine zufriedenstellende Antwort erhalten haben, sollten die Besucher die Möglichkeit haben, sich an die veranstaltende Behörde oder an die mit der Website verbundene Organisation zu wenden. Dann, und nur dann, wenn keine zufriedenstellende Antwort von diesen beiden Parteien kommt, sollten sie den Namen des zuständigen Mediators erfahren.<br>Hier können Sie die Kontaktdaten für diese beiden Schritte notieren.<br>Wenn Sie bereits ein Beschwerdeverfahren in Ihrer Organisation haben, können Sie es hier einfügen</p>"
 
 #: src/components/Step5.js:84
 msgid "<p> Visitors to your site may have questions or comments about the accessibility of your site. To give them a voice, you can allow them to contact you in different ways: an e-mail address, a contact form, a postal address or a telephone number of the service in charge. </p> <p> Remember to update this contact when your service changes or when a contact link is no longer active on your site. If there is no response, they will be able to go to your control organisation. </p>"
@@ -197,7 +197,7 @@ msgstr "Identifizierung"
 
 #: src/components/Statement.js:258
 msgid "If the above service does not respond, you should contact the following organisation:"
-msgstr "Wenn der oben genannte Dienst nicht reagiert, können Sie sich an die folgende Kontrollstelle wenden:"
+msgstr "Wenn der oben genannte Dienst nicht antwortet, können Sie Ihre Beschwerde einreichen, indem Sie die folgenden Schritte ausführen:"
 
 #: src/components/Step1.js:340
 msgid "If this is your first statement, note the same date as above."

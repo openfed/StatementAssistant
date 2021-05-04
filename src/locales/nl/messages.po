@@ -34,7 +34,7 @@ msgstr "<p> De richtlijn is niet van toepassing op de volgende websites en mobie
 
 #: src/components/Step5.js:138
 msgid "<p> To find out the name of your guardianship authority, please contact your regulatory authority. For example, for the Federal State, it is the Federal Ombudsman. </p>"
-msgstr "<p>Om de naam van uw ombudsman te weten te komen, kunt u contact opnemen met uw regelgevende instantie. Voor de federale staat is het bijvoorbeeld de federale ombudsman.</p>"
+msgstr "<p>Na contact te hebben opgenomen met de dienst die verantwoordelijk is voor de site/applicatie en zonder een bevredigend antwoord van hun kant, moet de bezoeker contact kunnen opnemen met de organiserende instantie of de organisatie die verbonden is met de site. Dan, en alleen dan, moeten zij, bij gebreke van een bevredigend antwoord van deze twee partijen, de naam vinden van de bemiddelaar die de leiding heeft.<br>Je kunt hier de contactgegevens voor deze twee stappen noteren.<br>Als jouw organisatie al een klachtenprocedure heeft, kun je die hier invoegen</p>"
 
 #: src/components/Step5.js:84
 msgid "<p> Visitors to your site may have questions or comments about the accessibility of your site. To give them a voice, you can allow them to contact you in different ways: an e-mail address, a contact form, a postal address or a telephone number of the service in charge. </p> <p> Remember to update this contact when your service changes or when a contact link is no longer active on your site. If there is no response, they will be able to go to your control organisation. </p>"
@@ -199,7 +199,7 @@ msgstr "Identificatie"
 
 #: src/components/Statement.js:258
 msgid "If the above service does not respond, you should contact the following organisation:"
-msgstr "Als de bovenstaande service niet reageert, kunt u contact opnemen met de volgende controle-instantie:"
+msgstr "Als de bovengenoemde dienst niet reageert, kun je jouw klacht indienen door de onderstaande stappen te volgen:"
 
 #: src/components/Step1.js:340
 msgid "If this is your first statement, note the same date as above."

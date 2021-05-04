@@ -34,7 +34,7 @@ msgstr "<p> La directive ne s'applique pas aux sites internet et applications mo
 
 #: src/components/Step5.js:138
 msgid "<p> To find out the name of your guardianship authority, please contact your regulatory authority. For example, for the Federal State, it is the Federal Ombudsman. </p>"
-msgstr "<p>Pour connaître le nom de votre médiateur, veuillez vous informer auprès de votre autorité de tutelle. Par exemple, pour l'Etat Fédéral, il s'agit du Médiateur fédéral.</p>"
+msgstr "<p>Après avoir contacté le service responsable du site/application et sans réponse satisfaisante de leur part, les visiteurs doivent pouvoir s'adresser au pouvoir organisateur ou à l'organisation en lien avec ce site. Ensuite, et seulement ensuite, sans réponse satisfaisante de ces deux parties, ils doivent trouver le nom du médiateur en charge.<br>Vous pouvez noter ici les coordonnées de ces deux étapes.<br>Si vous avez déjà une procédure de plainte dans votre organisation, vous pouvez l'insérer ici</p>"
 
 #: src/components/Step5.js:84
 msgid "<p> Visitors to your site may have questions or comments about the accessibility of your site. To give them a voice, you can allow them to contact you in different ways: an e-mail address, a contact form, a postal address or a telephone number of the service in charge. </p> <p> Remember to update this contact when your service changes or when a contact link is no longer active on your site. If there is no response, they will be able to go to your control organisation. </p>"
@@ -191,7 +191,7 @@ msgstr "Identification"
 
 #: src/components/Statement.js:258
 msgid "If the above service does not respond, you should contact the following organisation:"
-msgstr "Si le service ci-dessus ne répond pas, vous pouvez contacter le médiateur suivant :"
+msgstr "Si le service ci-dessus ne répond pas, vous pouvez déposer votre plainte via les étapes suivantes :"
 
 #: src/components/Step1.js:340
 msgid "If this is your first statement, note the same date as above."
